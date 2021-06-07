@@ -10,7 +10,7 @@ const NotFound = () => {
         src="https://media.giphy.com/media/xUA7b1m2By5WkYHoIg/giphy.gif"
         alt="nothing to see here"
       />
-      <p>Oh, no something went wrong! Please go back to the home page</p>
+      <h5>Oh, no something went wrong! Please go back to the home page</h5>
       <Button handleClick={() => navigate("/")}>Go back</Button>
     </div>
   );
