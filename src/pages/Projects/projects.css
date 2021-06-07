@@ -1,0 +1,16 @@
+.projectsView {
+  height: 90vh;
+}
+
+.projectsTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.projectsGallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}

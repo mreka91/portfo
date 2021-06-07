@@ -1,0 +1,20 @@
+.cvLink {
+  margin-top: 40px;
+}
+
+.cvLink a {
+  background-color: #000000;
+  color: white;
+  padding: 10px 20px;
+  border: 2px solid black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: ReenieBeanie-Regular;
+  font-size: 24px;
+}
+
+.cvLink a:hover {
+  background-color: white;
+  color: black;
+}

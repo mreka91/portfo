@@ -1,0 +1,41 @@
+.card {
+  width: 350px;
+  height: 250px;
+  position: relative;
+}
+
+.bg-image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: 100%;
+  transition: 0.5s ease;
+  backface-visibility: hidden;
+}
+
+.card-content {
+  transition: 0.5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.card:hover .bg-image {
+  opacity: 0.3;
+}
+
+.card:hover .card-content {
+  opacity: 1;
+}
+
+.card-content a {
+  color: white;
+  background-color: var(--color-pink-dark);
+  font-family: ReenieBeanie-Regular;
+  font-size: 18px;
+  padding: 16px 32px;
+}
