@@ -10,7 +10,7 @@ const Header = () => {
       <div className="header-all">
         <Title>Hi, I’m Réka Madarász!</Title>
         <Text>
-          Fullstack developer student living and studying in Göteborg, SE.
+          Fullstack developer student living and studying in Göteborg, Sweden.
         </Text>{" "}
         <Text>
           In my spare time I volunteer as a Project Manager at
