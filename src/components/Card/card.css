@@ -3,7 +3,11 @@
   height: 250px;
   position: relative;
 }
-
+.card h4 {
+  margin-bottom: 10px;
+  font-family: ReenieBeanie-Regular;
+  font-size: 22px;
+}
 .bg-image {
   opacity: 1;
   display: block;
@@ -34,7 +38,7 @@
 
 .card-content a {
   color: white;
-  background-color: var(--color-pink-dark);
+  background-color: rgb(190, 78, 162);
   font-family: ReenieBeanie-Regular;
   font-size: 18px;
   padding: 16px 32px;

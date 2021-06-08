@@ -11,6 +11,6 @@
 .projectsGallery {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 26px;
   justify-content: center;
 }

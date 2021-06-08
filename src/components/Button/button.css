@@ -1,6 +1,6 @@
 .btn {
   padding: 10px 20px;
-  background-color: var(--color-pink);
+  background-color: vblack;
   border: 0;
   border-radius: 2px;
   font-weight: bold;
@@ -13,5 +13,5 @@
 }
 
 .btn:hover {
-  background-color: var(--color-pink-dark);
+  background-color: white;
 }

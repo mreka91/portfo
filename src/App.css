@@ -4,6 +4,12 @@
     url("./assets/fonts/ReenieBeanie-Regular.woff2") format("woff2");
 }
 
+@font-face {
+  font-family: "roboto";
+  src: local("roboto-v27-latin-300"),
+    url("./assets/fonts/roboto-v27-latin-300.woff2") format("woff2");
+}
+
 nav {
   text-align: right;
   padding: 20px;
