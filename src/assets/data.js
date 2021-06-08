@@ -50,6 +50,7 @@ export const projectData = [
   {
     name: "Carleklo Promotions | html, css",
     link: "https://carleklopromotions.se",
-    image: "http://www.carleklopromotion.se/img/logo.png",
+    image:
+      "https://scontent.fgse1-1.fna.fbcdn.net/v/t1.6435-9/42110606_2218643458207066_3717634132759543808_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=DgqfHnWtI-oAX-9teo8&_nc_ht=scontent.fgse1-1.fna&oh=3d40df3f82458b191f816d1b88d696ea&oe=60E5A78E",
   },
 ];
