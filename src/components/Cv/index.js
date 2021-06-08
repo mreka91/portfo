@@ -10,7 +10,7 @@ const Cv = () => {
         rel="noopener noreferrer"
         download="Reka Madarasz"
       >
-        Download my CV
+        Download my swedish CV
       </a>
     </div>
   );
