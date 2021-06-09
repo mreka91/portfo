@@ -30,6 +30,7 @@
 
 .card:hover .bg-image {
   opacity: 0.3;
+  transform: scale(0.9);
 }
 
 .card:hover .card-content {
@@ -38,8 +39,8 @@
 
 .card-content a {
   color: white;
-  background-color: rgb(190, 78, 162);
+  background-color: rgba(255, 34, 144, 0.9);
   font-family: ReenieBeanie-Regular;
-  font-size: 18px;
+  font-size: 22px;
   padding: 16px 32px;
 }
