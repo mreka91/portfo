@@ -34,3 +34,16 @@
     margin-left: -1px;
   }
 }
+
+@media only screen and (min-width: 600px) and (max-width: 800px) {
+  .popup-text {
+    margin-left: -20px;
+  }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 1024px) {
+  .image {
+    width: 420px;
+    height: 300px;
+  }
+}
