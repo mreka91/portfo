@@ -5,7 +5,7 @@ const Cv = () => {
   return (
     <div className="cvLink">
       <a
-        href="https://drive.google.com/file/d/1--DNBnobD56h8m3ubJzNab0S8OLy49TC/preview"
+        href="https://drive.google.com/file/d/1--DNBnobD56h8m3ubJzNab0S8OLy49TC/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         download="Reka Madarasz"
