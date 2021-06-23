@@ -12,7 +12,7 @@ function HomePage() {
         <Cv />
       </div>
       <div className="right">
-        <Profile popup="Looking for LIA between 29/11/2021 - 06/06/2022" />
+        <Profile popup="Looking for LIA between 2021/11/29-2022/06/03" />
       </div>
     </div>
   );
